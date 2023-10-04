@@ -1,4 +1,4 @@
-# Project Name
+# Gesture Recognition Project
 
 Gesture Recognition Project - To predict the actions based on a gesture.
 
